@@ -20,3 +20,7 @@ I extracts examples from [matplotlib's official website](https://matplotlib.org/
 <br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Annotation_with_text.png)
 <br/> [**- Nonlinear axes**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Nonlinear_axes.py)
 <br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Nonlinear_axes.png)
+<br/> [**- Legend**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Legend.py)
+<br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Legend.png)
+<br/> [**- Subplot**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Subplot.py)
+<br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Subplot.png)
