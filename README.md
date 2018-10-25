@@ -17,4 +17,4 @@ I extracts examples from [matplotlib's official website](https://matplotlib.org/
 <br/> [**- Figure with text**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Figure_with_text.py)
 <br/> [**- Annotation with text**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Annotation_with_text.py)
 <br/> [**- Nonlinear axes**](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Nonlinear_axes.py)
-<br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Nonlinear_axes.png)
+<br/> ![image](https://github.com/Hung-Yun/Matplotlib-101/blob/master/Nonlinear_axes.png){: width="100px" height="100px"}
